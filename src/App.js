@@ -7,7 +7,7 @@ export default function App() {
     keyframes: [
       { transform: "translate(0,0)" },
       { transform: "translate(220px,0)" },
-      { transform: "translate(200px,120px)" },
+      { transform: "translate(220px,120px)" },
       { transform: "translate(420px,120px)" },
       { transform: "translate(420px,270px)" },
       { transform: "translate(630px,270px)" },
